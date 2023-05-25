@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.redmi.RedmiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.311 s - in com.example.redmi.RedmiApplicationTests
